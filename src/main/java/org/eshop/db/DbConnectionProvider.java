@@ -1,4 +1,4 @@
-package org.example.db;
+package org.eshop.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
